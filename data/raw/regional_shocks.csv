@@ -1,0 +1,121 @@
+quarter_num,region,shock_value,shock_description
+1,Greater Accra,-0.0042,Normal
+1,Ashanti,-0.019,Normal
+1,Western,-0.0311,Normal
+1,Eastern,-0.0557,Normal
+1,Central,0.0032,Normal
+1,Northern,0.0155,Normal
+1,Volta,0.0094,Normal
+1,Upper East,-0.0306,Normal
+1,Upper West,0.0208,Normal
+1,Bono,-0.014,Normal
+2,Greater Accra,-0.0181,Normal
+2,Ashanti,-0.0144,Normal
+2,Western,0.0016,Normal
+2,Eastern,-0.0297,Normal
+2,Central,-0.0007,Normal
+2,Northern,0.0086,Normal
+2,Volta,0.0221,Normal
+2,Upper East,0.0035,Normal
+2,Upper West,-0.0268,Normal
+2,Bono,0.003,Normal
+3,Greater Accra,-0.0212,Normal
+3,Ashanti,-0.0224,Normal
+3,Western,-0.0273,Normal
+3,Eastern,-0.0382,Normal
+3,Central,-0.0113,Normal
+3,Northern,-0.1274,Economic event
+3,Volta,0.0451,Normal
+3,Upper East,-0.1615,Economic event
+3,Upper West,-0.1283,Economic event
+3,Bono,-0.0079,Normal
+4,Greater Accra,-0.033,Normal
+4,Ashanti,0.014,Normal
+4,Western,0.0047,Normal
+4,Eastern,0.0364,Normal
+4,Central,-0.0307,Normal
+4,Northern,0.0559,Normal
+4,Volta,0.0318,Normal
+4,Upper East,-0.0004,Normal
+4,Upper West,-0.006,Normal
+4,Bono,-0.0143,Normal
+5,Greater Accra,0.0022,Normal
+5,Ashanti,-0.0037,Normal
+5,Western,0.0103,Normal
+5,Eastern,-0.0059,Normal
+5,Central,0.0283,Normal
+5,Northern,0.0025,Normal
+5,Volta,-0.0051,Normal
+5,Upper East,0.0205,Normal
+5,Upper West,-0.0325,Normal
+5,Bono,0.0068,Normal
+6,Greater Accra,0.0005,Normal
+6,Ashanti,0.0918,Economic event
+6,Western,0.0858,Economic event
+6,Eastern,0.0202,Normal
+6,Central,0.1393,Economic event
+6,Northern,0.0035,Normal
+6,Volta,0.0343,Normal
+6,Upper East,0.0088,Normal
+6,Upper West,0.025,Normal
+6,Bono,0.0084,Normal
+7,Greater Accra,-0.0055,Normal
+7,Ashanti,-0.0212,Normal
+7,Western,-0.0121,Normal
+7,Eastern,-0.0051,Normal
+7,Central,0.0273,Normal
+7,Northern,0.0154,Normal
+7,Volta,0.0066,Normal
+7,Upper East,0.0174,Normal
+7,Upper West,0.0105,Normal
+7,Bono,0.0052,Normal
+8,Greater Accra,-0.11,Economic event
+8,Ashanti,-0.0572,Economic event
+8,Western,-0.0892,Economic event
+8,Eastern,-0.0582,Economic event
+8,Central,-0.0563,Economic event
+8,Northern,-0.0934,Economic event
+8,Volta,-0.061,Economic event
+8,Upper East,-0.0872,Economic event
+8,Upper West,-0.0871,Economic event
+8,Bono,-0.0749,Economic event
+9,Greater Accra,0.0057,Normal
+9,Ashanti,0.0008,Normal
+9,Western,-0.0267,Normal
+9,Eastern,-0.0024,Normal
+9,Central,0.0456,Normal
+9,Northern,-0.0557,Normal
+9,Volta,0.0174,Normal
+9,Upper East,0.0211,Normal
+9,Upper West,-0.0272,Normal
+9,Bono,-0.0094,Normal
+10,Greater Accra,-0.02,Normal
+10,Ashanti,0.0371,Normal
+10,Western,0.1221,Economic event
+10,Eastern,0.023,Normal
+10,Central,0.0024,Normal
+10,Northern,0.0262,Normal
+10,Volta,-0.0002,Normal
+10,Upper East,0.0272,Normal
+10,Upper West,-0.003,Normal
+10,Bono,-0.0136,Normal
+11,Greater Accra,0.0362,Normal
+11,Ashanti,-0.0004,Normal
+11,Western,-0.018,Normal
+11,Eastern,-0.0182,Normal
+11,Central,-0.0181,Normal
+11,Northern,0.0169,Normal
+11,Volta,-0.002,Normal
+11,Upper East,0.046,Normal
+11,Upper West,0.0237,Normal
+11,Bono,0.0051,Normal
+12,Greater Accra,0.0281,Normal
+12,Ashanti,-0.0099,Normal
+12,Western,-0.0371,Normal
+12,Eastern,-0.0198,Normal
+12,Central,0.0029,Normal
+12,Northern,-0.0045,Normal
+12,Volta,0.0165,Normal
+12,Upper East,-0.0025,Normal
+12,Upper West,0.015,Normal
+12,Bono,0.03,Normal

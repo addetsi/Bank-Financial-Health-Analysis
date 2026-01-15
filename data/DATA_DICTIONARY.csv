@@ -1,0 +1,36 @@
+Feature,Type,Description,Range/Values
+bank_id,Identifier,Unique bank identifier,BANK_001 to BANK_224
+bank_name,Text,Bank name,Generated names
+region,Categorical,Geographic region,10 regions in Ghana
+bank_size,Categorical,Bank size category,"Small, Medium, Large"
+lending_style,Categorical,Risk appetite in lending,"Conservative, Moderate, Aggressive"
+quarter_num,Numeric,Quarter number in sequence,1-12
+year,Numeric,Calendar year,2021-2023
+quarter,Text,Quarter label,Q1-Q4
+date,Text,Period identifier,YYYY-QN format
+total_assets,Numeric,Total assets (millions),Varies by bank size
+total_equity,Numeric,Total equity capital (millions),Positive values
+liquid_assets,Numeric,Liquid assets (millions),< Total assets
+total_loans,Numeric,Total loan portfolio (millions),< Deposits * 0.95
+non_performing_loans,Numeric,NPL amount (millions),< Total loans
+loan_loss_provisions,Numeric,Loan loss provisions (millions),~0.5-1.2x NPL
+current_deposits,Numeric,Customer deposits (millions),~70-85% of assets
+liquidity_ratio,Ratio,Liquid assets / Total assets (%),5-45%
+capital_adequacy_ratio,Ratio,Equity / Risk-weighted assets (%),8-30%
+cash_reserve_ratio,Ratio,Cash reserves / Deposits (%),8-25%
+leverage_ratio,Ratio,Assets / Equity,5-20x
+loan_to_deposit_ratio,Ratio,Loans / Deposits (%),40-95%
+npl_ratio,Ratio,NPL / Total loans (%),0-25%
+net_income,Numeric,Net income (millions),Can be negative
+return_on_assets,Ratio,Net income / Total assets (%),-5% to 8%
+return_on_equity,Ratio,Net income / Equity (%),-15% to 25%
+net_interest_margin,Ratio,Interest margin (%),2-12%
+operating_expenses,Numeric,Operating costs (millions),~3-8% of assets
+cost_to_income_ratio,Ratio,Operating expenses / Income (%),30-95%
+staff_count,Numeric,Number of employees,Size-dependent
+branches,Numeric,Number of branches,Size-dependent
+concentration_risk,Ratio,Loan concentration risk (%),15-60%
+deposit_volatility,Ratio,Deposit volatility measure (%),5-35%
+consecutive_losses,Numeric,Max consecutive loss quarters,0-12
+financial_health_status,Binary,TARGET: Risk classification,"0=HEALTHY, 1=HIGH_RISK"
+risk_reasons,Text,Risk criteria met (if HIGH_RISK),Multiple reasons possible

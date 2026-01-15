@@ -1,0 +1,225 @@
+bank_id,bank_name,region,bank_size,lending_style,established_year
+BANK_001,"Rodriguez, Figueroa and Sanchez Rural Bank",Upper West,Small,Moderate,2015
+BANK_002,Doyle Ltd Rural Bank,Greater Accra,Small,Conservative,2018
+BANK_003,"Mcclain, Miller and Henderson Rural Bank",Greater Accra,Small,Moderate,2015
+BANK_004,Davis and Sons Rural Bank,Volta,Large,Conservative,2015
+BANK_005,"Guzman, Hoffman and Baldwin Rural Bank",Central,Medium,Conservative,2019
+BANK_006,"Gardner, Robinson and Lawrence Rural Bank",Central,Small,Conservative,2010
+BANK_007,Blake and Sons Rural Bank,Greater Accra,Small,Moderate,2006
+BANK_008,"Henderson, Ramirez and Lewis Rural Bank",Eastern,Medium,Conservative,2013
+BANK_009,Garcia-James Rural Bank,Western,Medium,Conservative,2019
+BANK_010,Abbott-Munoz Rural Bank,Volta,Large,Moderate,2015
+BANK_011,Blair PLC Rural Bank,Ashanti,Small,Moderate,2006
+BANK_012,Dudley Group Rural Bank,Greater Accra,Medium,Aggressive,1998
+BANK_013,Arnold Ltd Rural Bank,Northern,Small,Moderate,2016
+BANK_014,"Mcclure, Ward and Lee Rural Bank",Greater Accra,Medium,Aggressive,2006
+BANK_015,Williams and Sons Rural Bank,Upper East,Large,Moderate,2010
+BANK_016,Galloway-Wyatt Rural Bank,Eastern,Small,Moderate,2002
+BANK_017,James Group Rural Bank,Northern,Medium,Moderate,2018
+BANK_018,"Flowers, Martin and Kelly Rural Bank",Ashanti,Small,Moderate,2003
+BANK_019,"Adams, Zuniga and Wong Rural Bank",Greater Accra,Small,Conservative,2003
+BANK_020,"Reid, Ferguson and Sanchez Rural Bank",Greater Accra,Medium,Conservative,2005
+BANK_021,Gray-Mayo Rural Bank,Northern,Small,Moderate,1999
+BANK_022,"Watts, Robinson and Nguyen Rural Bank",Central,Large,Aggressive,2003
+BANK_023,Perez Inc Rural Bank,Ashanti,Medium,Conservative,2017
+BANK_024,Morales-Jones Rural Bank,Central,Medium,Moderate,2016
+BANK_025,"Walter, Edwards and Rios Rural Bank",Western,Large,Conservative,2008
+BANK_026,Wilkerson-Day Rural Bank,Northern,Medium,Conservative,2008
+BANK_027,Baker and Sons Rural Bank,Eastern,Medium,Moderate,2004
+BANK_028,"Hoffman, Baker and Richards Rural Bank",Ashanti,Medium,Aggressive,2011
+BANK_029,"Ross, Robinson and Bright Rural Bank",Eastern,Small,Aggressive,2017
+BANK_030,"Snyder, Campos and Callahan Rural Bank",Eastern,Medium,Conservative,2007
+BANK_031,Burton Ltd Rural Bank,Ashanti,Small,Conservative,1996
+BANK_032,Carlson-Cruz Rural Bank,Ashanti,Medium,Conservative,2006
+BANK_033,"Ferrell, Rice and Maddox Rural Bank",Upper East,Small,Moderate,2017
+BANK_034,Frazier Inc Rural Bank,Ashanti,Large,Conservative,2019
+BANK_035,"Dyer, Potter and Mack Rural Bank",Greater Accra,Medium,Moderate,1997
+BANK_036,Rodriguez-Graham Rural Bank,Eastern,Small,Moderate,1999
+BANK_037,Smith-Bowen Rural Bank,Ashanti,Medium,Conservative,2016
+BANK_038,"Baker, Mason and White Rural Bank",Eastern,Small,Moderate,2011
+BANK_039,Harrell LLC Rural Bank,Ashanti,Small,Moderate,1997
+BANK_040,"Romero, Gonzalez and Brooks Rural Bank",Ashanti,Small,Conservative,2011
+BANK_041,Ryan PLC Rural Bank,Western,Large,Conservative,1995
+BANK_042,George Group Rural Bank,Central,Medium,Moderate,2000
+BANK_043,Rodriguez LLC Rural Bank,Central,Small,Moderate,2011
+BANK_044,Allen-Allen Rural Bank,Ashanti,Medium,Moderate,2000
+BANK_045,"Arroyo, Miller and Tucker Rural Bank",Volta,Small,Moderate,2003
+BANK_046,Spence PLC Rural Bank,Greater Accra,Small,Conservative,2014
+BANK_047,Anderson Group Rural Bank,Ashanti,Small,Moderate,2013
+BANK_048,"Martin, Rose and Obrien Rural Bank",Greater Accra,Small,Aggressive,2002
+BANK_049,Hickman Ltd Rural Bank,Upper West,Small,Conservative,2019
+BANK_050,"Harris, Collins and Carney Rural Bank",Upper West,Small,Aggressive,1997
+BANK_051,"Brooks, Lam and Hayes Rural Bank",Greater Accra,Small,Aggressive,2014
+BANK_052,Walker LLC Rural Bank,Ashanti,Medium,Conservative,2006
+BANK_053,Chapman and Sons Rural Bank,Upper East,Medium,Conservative,2003
+BANK_054,"Robinson, Jones and Welch Rural Bank",Northern,Small,Aggressive,2018
+BANK_055,Jones Inc Rural Bank,Upper East,Medium,Aggressive,2011
+BANK_056,Jones-Young Rural Bank,Upper East,Small,Moderate,1997
+BANK_057,"Washington, Ryan and Cummings Rural Bank",Upper West,Small,Aggressive,2012
+BANK_058,"Johnston, Sanchez and Kennedy Rural Bank",Eastern,Small,Moderate,2010
+BANK_059,Lee-Davis Rural Bank,Greater Accra,Large,Conservative,2008
+BANK_060,Gomez-Jenkins Rural Bank,Northern,Small,Moderate,2001
+BANK_061,"Brown, Valdez and Lucas Rural Bank",Ashanti,Medium,Moderate,2013
+BANK_062,Powell LLC Rural Bank,Ashanti,Medium,Moderate,2000
+BANK_063,Wright and Sons Rural Bank,Upper East,Small,Moderate,1996
+BANK_064,"West, Henderson and Ramirez Rural Bank",Central,Small,Moderate,1995
+BANK_065,Baxter Inc Rural Bank,Northern,Small,Conservative,1997
+BANK_066,Morton-Chase Rural Bank,Greater Accra,Medium,Aggressive,2008
+BANK_067,Williams PLC Rural Bank,Ashanti,Large,Conservative,2018
+BANK_068,Novak and Sons Rural Bank,Eastern,Small,Moderate,1995
+BANK_069,Russell Group Rural Bank,Ashanti,Small,Conservative,1995
+BANK_070,Hancock Inc Rural Bank,Greater Accra,Small,Moderate,2016
+BANK_071,Gray Group Rural Bank,Eastern,Medium,Conservative,2009
+BANK_072,House-Glover Rural Bank,Greater Accra,Large,Moderate,1996
+BANK_073,Henderson-Bernard Rural Bank,Volta,Small,Conservative,2016
+BANK_074,"Stanley, Tucker and Lee Rural Bank",Ashanti,Small,Aggressive,1997
+BANK_075,Novak PLC Rural Bank,Central,Small,Conservative,2001
+BANK_076,"Daniels, Adkins and Brown Rural Bank",Volta,Medium,Moderate,2008
+BANK_077,"Woods, Calhoun and Schmidt Rural Bank",Upper East,Medium,Moderate,1996
+BANK_078,Yu Inc Rural Bank,Eastern,Small,Conservative,2019
+BANK_079,Jones Inc Rural Bank,Bono,Small,Aggressive,2016
+BANK_080,"Hensley, Powell and David Rural Bank",Greater Accra,Small,Moderate,2005
+BANK_081,"Sanchez, Wheeler and Harvey Rural Bank",Eastern,Small,Moderate,2006
+BANK_082,Sandoval-Cunningham Rural Bank,Western,Large,Aggressive,2014
+BANK_083,Donovan-Harris Rural Bank,Central,Medium,Conservative,2010
+BANK_084,"Edwards, Baker and Anderson Rural Bank",Eastern,Large,Moderate,2011
+BANK_085,"Evans, Stewart and Walton Rural Bank",Western,Small,Moderate,1999
+BANK_086,Smith PLC Rural Bank,Greater Accra,Small,Moderate,2006
+BANK_087,"Ferrell, Jones and Lewis Rural Bank",Greater Accra,Medium,Conservative,1996
+BANK_088,Anderson-Bailey Rural Bank,Greater Accra,Small,Conservative,2007
+BANK_089,Suarez LLC Rural Bank,Upper West,Small,Moderate,1999
+BANK_090,Moore-Bass Rural Bank,Western,Medium,Conservative,2010
+BANK_091,"Turner, Riggs and Roman Rural Bank",Greater Accra,Small,Moderate,1999
+BANK_092,"Smith, Montoya and Evans Rural Bank",Ashanti,Small,Aggressive,1999
+BANK_093,"Garcia, Humphrey and Baker Rural Bank",Greater Accra,Medium,Moderate,2001
+BANK_094,Newton and Sons Rural Bank,Western,Small,Moderate,2004
+BANK_095,Campbell-Clark Rural Bank,Upper East,Large,Conservative,2004
+BANK_096,Harris-Walters Rural Bank,Eastern,Medium,Aggressive,1999
+BANK_097,Wagner-King Rural Bank,Central,Medium,Aggressive,1996
+BANK_098,Davis Group Rural Bank,Eastern,Small,Aggressive,2018
+BANK_099,Williams-Cook Rural Bank,Eastern,Medium,Conservative,2013
+BANK_100,Walsh LLC Rural Bank,Central,Medium,Aggressive,2002
+BANK_101,Figueroa PLC Rural Bank,Greater Accra,Large,Conservative,2008
+BANK_102,"Patterson, Smith and Jones Rural Bank",Greater Accra,Small,Moderate,2011
+BANK_103,"Mckee, Gardner and Davenport Rural Bank",Western,Medium,Moderate,1996
+BANK_104,"Tran, Jordan and Williams Rural Bank",Western,Small,Moderate,2012
+BANK_105,Nolan-Flynn Rural Bank,Upper East,Medium,Moderate,2015
+BANK_106,Nolan and Sons Rural Bank,Eastern,Large,Moderate,2018
+BANK_107,"Wright, Garcia and Deleon Rural Bank",Bono,Medium,Moderate,2012
+BANK_108,Dickson-Brady Rural Bank,Eastern,Small,Aggressive,1999
+BANK_109,Hancock and Sons Rural Bank,Central,Small,Moderate,1997
+BANK_110,Johnson-Doyle Rural Bank,Upper East,Small,Moderate,2010
+BANK_111,Patton-Jenkins Rural Bank,Ashanti,Small,Conservative,1998
+BANK_112,"Shields, Cochran and Adams Rural Bank",Upper East,Small,Conservative,2001
+BANK_113,"Rodriguez, Brennan and Garrison Rural Bank",Central,Large,Moderate,2009
+BANK_114,Gonzalez Group Rural Bank,Greater Accra,Small,Moderate,2014
+BANK_115,Torres-Pope Rural Bank,Northern,Medium,Moderate,2019
+BANK_116,Walker Ltd Rural Bank,Upper West,Small,Aggressive,2008
+BANK_117,Ross LLC Rural Bank,Western,Medium,Aggressive,2005
+BANK_118,Rasmussen LLC Rural Bank,Bono,Medium,Moderate,2006
+BANK_119,May-Ross Rural Bank,Volta,Large,Moderate,2002
+BANK_120,"Rivera, Johnson and Wiley Rural Bank",Volta,Small,Moderate,1999
+BANK_121,White-Estes Rural Bank,Ashanti,Medium,Moderate,2007
+BANK_122,Johnson-Carlson Rural Bank,Volta,Small,Aggressive,2019
+BANK_123,Chandler-Edwards Rural Bank,Ashanti,Medium,Moderate,2013
+BANK_124,"Joyce, Wilson and Lam Rural Bank",Eastern,Medium,Moderate,2013
+BANK_125,Scott Ltd Rural Bank,Western,Small,Conservative,2014
+BANK_126,Smith-Frost Rural Bank,Greater Accra,Small,Moderate,1995
+BANK_127,"Mcdaniel, Bentley and Mclaughlin Rural Bank",Ashanti,Medium,Moderate,2011
+BANK_128,Diaz Inc Rural Bank,Eastern,Small,Moderate,2006
+BANK_129,"Mccall, Hanson and Alvarado Rural Bank",Eastern,Large,Moderate,2010
+BANK_130,Cortez LLC Rural Bank,Bono,Medium,Conservative,1997
+BANK_131,"Parker, Ortiz and Powell Rural Bank",Greater Accra,Medium,Conservative,2011
+BANK_132,Spencer-Lee Rural Bank,Western,Medium,Moderate,2016
+BANK_133,"Bentley, Byrd and Orr Rural Bank",Northern,Small,Aggressive,2004
+BANK_134,"Carroll, Sullivan and Bass Rural Bank",Upper East,Large,Moderate,2015
+BANK_135,Mitchell-Jordan Rural Bank,Greater Accra,Small,Moderate,2012
+BANK_136,"Lawson, Morris and Ramos Rural Bank",Ashanti,Small,Conservative,2016
+BANK_137,"Lewis, Kennedy and Santana Rural Bank",Ashanti,Small,Moderate,2007
+BANK_138,"Jackson, Miller and Robertson Rural Bank",Greater Accra,Medium,Aggressive,2000
+BANK_139,"Harvey, Davis and Crane Rural Bank",Northern,Large,Moderate,1996
+BANK_140,Chambers and Sons Rural Bank,Upper East,Small,Moderate,1999
+BANK_141,Hernandez Inc Rural Bank,Ashanti,Small,Aggressive,2009
+BANK_142,Riggs PLC Rural Bank,Eastern,Small,Moderate,2016
+BANK_143,Gibson Ltd Rural Bank,Eastern,Medium,Conservative,2003
+BANK_144,"Lee, Horton and Snyder Rural Bank",Ashanti,Medium,Conservative,2000
+BANK_145,Hernandez Ltd Rural Bank,Eastern,Medium,Moderate,1997
+BANK_146,Stafford Inc Rural Bank,Northern,Medium,Aggressive,2004
+BANK_147,Robinson-Brock Rural Bank,Ashanti,Small,Conservative,1995
+BANK_148,"Holmes, Williams and Wright Rural Bank",Central,Large,Conservative,2011
+BANK_149,Bryant Group Rural Bank,Greater Accra,Medium,Conservative,2001
+BANK_150,"Schmidt, Hansen and Stewart Rural Bank",Eastern,Medium,Moderate,2012
+BANK_151,Salazar-Ball Rural Bank,Eastern,Large,Moderate,2019
+BANK_152,"Simmons, Meadows and Griffin Rural Bank",Western,Medium,Moderate,1999
+BANK_153,Manning Group Rural Bank,Northern,Medium,Conservative,2000
+BANK_154,Green-Wright Rural Bank,Bono,Medium,Moderate,2012
+BANK_155,"Ramirez, Strickland and Washington Rural Bank",Western,Small,Aggressive,2014
+BANK_156,Hill Inc Rural Bank,Western,Medium,Aggressive,2017
+BANK_157,"Mitchell, Nelson and Flores Rural Bank",Central,Medium,Moderate,2004
+BANK_158,"Miller, Hernandez and Reyes Rural Bank",Western,Large,Conservative,2018
+BANK_159,Mccarthy Inc Rural Bank,Central,Small,Moderate,2005
+BANK_160,Russell-Daniels Rural Bank,Ashanti,Medium,Moderate,2017
+BANK_161,Brown-Wall Rural Bank,Greater Accra,Small,Conservative,2002
+BANK_162,Stein-Silva Rural Bank,Central,Small,Moderate,1997
+BANK_163,"Smith, Gilmore and Johnston Rural Bank",Bono,Medium,Moderate,2013
+BANK_164,Smith-Bell Rural Bank,Greater Accra,Small,Conservative,2016
+BANK_165,Castaneda-Ashley Rural Bank,Greater Accra,Small,Moderate,2008
+BANK_166,Medina-Navarro Rural Bank,Eastern,Small,Moderate,2003
+BANK_167,"Hurst, Freeman and Nelson Rural Bank",Western,Small,Moderate,2018
+BANK_168,Johnson-Rogers Rural Bank,Upper West,Large,Conservative,1998
+BANK_169,"Yates, Ramsey and Pittman Rural Bank",Northern,Medium,Conservative,2009
+BANK_170,Hooper PLC Rural Bank,Upper West,Medium,Conservative,2017
+BANK_171,Meadows PLC Rural Bank,Northern,Medium,Conservative,2018
+BANK_172,"Alvarado, Miller and Patterson Rural Bank",Central,Small,Aggressive,2005
+BANK_173,White-Green Rural Bank,Greater Accra,Medium,Moderate,1997
+BANK_174,Lewis-Murphy Rural Bank,Greater Accra,Small,Moderate,2004
+BANK_175,Ramirez-Bean Rural Bank,Volta,Medium,Conservative,2006
+BANK_176,King-Miller Rural Bank,Ashanti,Small,Moderate,2004
+BANK_177,Curry Inc Rural Bank,Western,Medium,Conservative,2009
+BANK_178,Walker-Jones Rural Bank,Eastern,Medium,Moderate,2006
+BANK_179,"Williams, Johnson and Wright Rural Bank",Ashanti,Small,Moderate,1996
+BANK_180,Howell and Sons Rural Bank,Western,Small,Moderate,2019
+BANK_181,Wells Inc Rural Bank,Greater Accra,Small,Conservative,2017
+BANK_182,"Gould, Marshall and Scott Rural Bank",Upper East,Medium,Conservative,2018
+BANK_183,Jackson-Lawson Rural Bank,Greater Accra,Large,Moderate,2002
+BANK_184,"Higgins, Strickland and Martin Rural Bank",Bono,Medium,Aggressive,2014
+BANK_185,Rodriguez-Johnson Rural Bank,Upper East,Large,Aggressive,2011
+BANK_186,Johnston-Odonnell Rural Bank,Northern,Medium,Aggressive,1996
+BANK_187,Sanders-Espinoza Rural Bank,Eastern,Medium,Conservative,2006
+BANK_188,Vargas Ltd Rural Bank,Bono,Small,Moderate,2014
+BANK_189,Garcia LLC Rural Bank,Ashanti,Medium,Conservative,2008
+BANK_190,"Burke, Martinez and Riggs Rural Bank",Eastern,Small,Conservative,1998
+BANK_191,Reed Group Rural Bank,Eastern,Small,Moderate,2018
+BANK_192,"Wood, Hunter and Peterson Rural Bank",Greater Accra,Small,Aggressive,2007
+BANK_193,Short-Garcia Rural Bank,Greater Accra,Medium,Conservative,2003
+BANK_194,Reid-Poole Rural Bank,Eastern,Medium,Moderate,2017
+BANK_195,"Hernandez, Thompson and Boyd Rural Bank",Greater Accra,Medium,Aggressive,2006
+BANK_196,"Nelson, Morton and Medina Rural Bank",Upper West,Medium,Aggressive,1996
+BANK_197,Marshall-Petersen Rural Bank,Greater Accra,Small,Moderate,2016
+BANK_198,"Adams, Christian and Rivas Rural Bank",Volta,Small,Aggressive,1999
+BANK_199,Ramirez Group Rural Bank,Greater Accra,Small,Conservative,1999
+BANK_200,Christensen PLC Rural Bank,Central,Small,Aggressive,2019
+BANK_201,"Barnett, Rogers and Snyder Rural Bank",Western,Large,Aggressive,2001
+BANK_202,White-Lewis Rural Bank,Upper East,Medium,Moderate,1995
+BANK_203,Peterson-Beard Rural Bank,Eastern,Medium,Conservative,1995
+BANK_204,"Beard, Peters and Black Rural Bank",Eastern,Small,Conservative,2002
+BANK_205,Miller Ltd Rural Bank,Greater Accra,Medium,Aggressive,2001
+BANK_206,Freeman-Chang Rural Bank,Central,Medium,Conservative,2009
+BANK_207,"Alvarez, Joseph and West Rural Bank",Eastern,Medium,Aggressive,1998
+BANK_208,Davis and Sons Rural Bank,Northern,Large,Moderate,2017
+BANK_209,Holt-Torres Rural Bank,Ashanti,Small,Moderate,1999
+BANK_210,"Wood, Tran and Cooper Rural Bank",Ashanti,Large,Aggressive,2009
+BANK_211,"Pierce, Bell and Chavez Rural Bank",Greater Accra,Medium,Moderate,2002
+BANK_212,King-Martinez Rural Bank,Ashanti,Small,Moderate,1996
+BANK_213,Stewart Ltd Rural Bank,Eastern,Small,Moderate,2005
+BANK_214,"Tapia, Vaughn and Lee Rural Bank",Volta,Medium,Aggressive,2002
+BANK_215,"Washington, Hardy and Bray Rural Bank",Western,Medium,Moderate,2008
+BANK_216,"Carlson, Hooper and Wall Rural Bank",Upper West,Medium,Conservative,2012
+BANK_217,Perez-White Rural Bank,Greater Accra,Medium,Aggressive,2006
+BANK_218,Erickson and Sons Rural Bank,Upper West,Small,Moderate,1999
+BANK_219,Williams-Brown Rural Bank,Greater Accra,Medium,Moderate,2003
+BANK_220,Terry-Martinez Rural Bank,Northern,Medium,Aggressive,2016
+BANK_221,Garcia-Smith Rural Bank,Greater Accra,Large,Conservative,2008
+BANK_222,Harrison-Alexander Rural Bank,Volta,Small,Moderate,2016
+BANK_223,Sheppard LLC Rural Bank,Eastern,Medium,Moderate,2003
+BANK_224,Wilson-Jones Rural Bank,Ashanti,Medium,Moderate,2003
