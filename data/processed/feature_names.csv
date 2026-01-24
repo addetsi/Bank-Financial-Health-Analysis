@@ -1,0 +1,47 @@
+feature_name
+quarter_num
+year
+total_assets
+total_equity
+liquid_assets
+total_loans
+non_performing_loans
+loan_loss_provisions
+current_deposits
+liquidity_ratio
+capital_adequacy_ratio
+cash_reserve_ratio
+leverage_ratio
+loan_to_deposit_ratio
+npl_ratio
+net_income
+return_on_assets
+return_on_equity
+net_interest_margin
+operating_expenses
+cost_to_income_ratio
+staff_count
+branches
+concentration_risk
+deposit_volatility
+consecutive_losses
+liquidity_capital_interaction
+npl_leverage_interaction
+roe_capital_interaction
+ldr_npl_interaction
+cost_volatility_interaction
+efficiency_score
+risk_composite
+region_Bono
+region_Central
+region_Eastern
+region_Greater Accra
+region_Northern
+region_Upper East
+region_Upper West
+region_Volta
+region_Western
+bank_size_Medium
+bank_size_Small
+lending_style_Conservative
+lending_style_Moderate
