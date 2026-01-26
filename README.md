@@ -324,12 +324,6 @@ This project was developed as part of a Data Science portfolio to demonstrate:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 **⭐ If you find this project useful, please consider giving it a star!**
 
 ---
