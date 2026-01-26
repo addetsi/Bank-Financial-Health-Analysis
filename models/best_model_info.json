@@ -1,0 +1,23 @@
+{
+    "model_name": "XGBoost",
+    "best_params": {
+        "colsample_bytree": 0.8,
+        "learning_rate": 0.2,
+        "max_depth": 7,
+        "n_estimators": 100,
+        "subsample": 0.6
+    },
+    "test_metrics": {
+        "accuracy": 0.9981412639405205,
+        "precision": 0.9945945945945946,
+        "recall": 1.0,
+        "f1_score": 0.997289972899729,
+        "roc_auc": 0.9999385900270203
+    },
+    "confusion_matrix": {
+        "tn": 353,
+        "fp": 1,
+        "fn": 0,
+        "tp": 184
+    }
+}
