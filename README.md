@@ -1,6 +1,5 @@
 # Bank-Financial-Health-Analysis
 
-# Banking Financial Health Classification
 ## ARB Apex Bank - Rural Banking Risk Assessment System
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
