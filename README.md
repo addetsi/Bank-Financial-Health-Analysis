@@ -4,26 +4,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-orange.svg)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A machine learning project for predicting financial health status of rural banks to identify institutions at risk of liquidity failure and capital inadequacy. This portfolio project recreates real-world banking supervision analysis using synthetic data.
-
----
-
-## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Business Problem](#business-problem)
-- [Dataset](#dataset)
-- [Model Performance](#model-performance)
-- [Key Features](#key-features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Results & Insights](#results--insights)
-- [Limitations](#limitations)
-- [Future Improvements](#future-improvements)
-- [Author](#author)
 
 ---
 
