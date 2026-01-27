@@ -1,6 +1,5 @@
 # Bank-Financial-Health-Analysis
 
-# Banking Financial Health Classification
 ## ARB Apex Bank - Rural Banking Risk Assessment System
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -189,8 +188,7 @@ Created 7 interaction features to capture complex relationships:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/bank-financial-health-classification.git
-cd bank-financial-health-classification
+git clone https://github.com/addetsi/Bank-Financial-Health-Analysis.git
 ```
 
 2. **Create virtual environment** (recommended)
@@ -199,10 +197,6 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-3. **Install dependencies**
-```bash
-pip install -r requirements.txt
-```
 
 ### Required Packages
 ```
@@ -216,66 +210,6 @@ imbalanced-learn==0.11.0
 shap==0.42.1
 jupyter==1.0.0
 ```
-
----
-
-## 💻 Usage
-
-### Running Notebooks Sequentially
-
-1. **Data Generation**
-```bash
-jupyter notebook notebooks/01_data_generation.ipynb
-```
-Generates synthetic banking dataset (224 banks × 12 quarters)
-
-2. **Exploratory Data Analysis**
-```bash
-jupyter notebook notebooks/02_eda_analysis.ipynb
-```
-Analyzes distributions, correlations, temporal trends, and regional patterns
-
-3. **Feature Engineering**
-```bash
-jupyter notebook notebooks/03_feature_engineering.ipynb
-```
-Preprocesses data, creates interaction features, handles class imbalance
-
-4. **Model Training**
-```bash
-jupyter notebook notebooks/04_model_training.ipynb
-```
-Trains 5 models, tunes hyperparameters, evaluates performance
-
-### Using the Trained Model
-
-```python
-import joblib
-import numpy as np
-
-# Load the best model
-model = joblib.load('models/best_model.pkl')
-preprocessor = joblib.load('data/processed/preprocessor.pkl')
-
-# Load new bank data
-new_data = pd.read_csv('new_bank_data.csv')
-
-# Preprocess
-X_new = preprocessor.transform(new_data)
-
-# Predict
-predictions = model.predict(X_new)
-probabilities = model.predict_proba(X_new)
-
-# Results
-risk_banks = new_data[predictions == 1]
-print(f"High-risk banks identified: {len(risk_banks)}")
-```
-
----
-
-
-
 ## 🛠️ Technologies Used
 
 | Category | Technologies |
@@ -386,12 +320,6 @@ This project was developed as part of a Data Science portfolio to demonstrate:
 - Professional code documentation and project organization
 
 **Original Experience:** Data Science Intern at ARB Apex Bank Ltd (Sep 2022 – Aug 2023), where I conducted predictive analysis on 224+ rural banks to identify institutions at risk of liquidity failure and capital inadequacy.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
