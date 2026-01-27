@@ -1,0 +1,47 @@
+Feature,Importance,Importance_Percentage,Rank
+risk_composite,0.3245,32.45,1
+capital_adequacy_ratio,0.1482,14.82,2
+npl_ratio,0.1437,14.37,3
+liquidity_capital_interaction,0.0762,7.62,4
+liquidity_ratio,0.0603,6.03,5
+lending_style_Moderate,0.0326,3.26,6
+region_Volta,0.0309,3.09,7
+region_Northern,0.0276,2.76,8
+region_Western,0.0162,1.62,9
+region_Greater Accra,0.0108,1.08,10
+total_loans,0.0108,1.08,11
+npl_leverage_interaction,0.0065,0.65,12
+leverage_ratio,0.0059,0.59,13
+bank_size_Medium,0.0059,0.59,14
+total_assets,0.0057,0.57,15
+liquid_assets,0.0057,0.57,16
+quarter_num,0.0055,0.55,17
+ldr_npl_interaction,0.0054,0.54,18
+non_performing_loans,0.005,0.5,19
+loan_loss_provisions,0.0043,0.43,20
+region_Central,0.0043,0.43,21
+deposit_volatility,0.004,0.4,22
+operating_expenses,0.004,0.4,23
+current_deposits,0.004,0.4,24
+net_income,0.0037,0.37,25
+net_interest_margin,0.0037,0.37,26
+roe_capital_interaction,0.0036,0.36,27
+branches,0.0036,0.36,28
+cash_reserve_ratio,0.0035,0.35,29
+return_on_equity,0.0035,0.35,30
+return_on_assets,0.0035,0.35,31
+loan_to_deposit_ratio,0.0035,0.35,32
+region_Eastern,0.0034,0.34,33
+bank_size_Small,0.0033,0.33,34
+cost_volatility_interaction,0.0032,0.32,35
+cost_to_income_ratio,0.0031,0.31,36
+total_equity,0.0031,0.31,37
+staff_count,0.003,0.3,38
+year,0.0018,0.18,39
+concentration_risk,0.0012,0.12,40
+efficiency_score,0.0012,0.12,41
+consecutive_losses,0.0,0.0,42
+region_Bono,0.0,0.0,43
+region_Upper West,0.0,0.0,44
+region_Upper East,0.0,0.0,45
+lending_style_Conservative,0.0,0.0,46

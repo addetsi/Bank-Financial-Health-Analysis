@@ -1,0 +1,15 @@
+Metric,Value,Category
+Total Banks Analyzed,224.0,Dataset
+Total Quarters,12.0,Dataset
+Total Records,2688.0,Dataset
+High-Risk Banks (Latest Quarter),81.0,Risk
+High-Risk Percentage,36.2,Risk
+Test Set Size,538.0,Model
+Model Accuracy (%),99.81,Model
+Model Precision (%),99.46,Model
+Model Recall (%),100.0,Model
+Model F1-Score (%),99.73,Model
+ROC-AUC (%),99.99,Model
+High-Risk Banks Caught,184.0,Performance
+High-Risk Banks Missed,0.0,Performance
+False Alarms,1.0,Performance

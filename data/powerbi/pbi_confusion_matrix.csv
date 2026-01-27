@@ -1,0 +1,5 @@
+Actual,Predicted,Count,Type
+Healthy,Healthy,353,True Negative
+Healthy,High-Risk,1,False Positive
+High-Risk,Healthy,0,False Negative
+High-Risk,High-Risk,184,True Positive

@@ -1,0 +1,225 @@
+bank_id,bank_name,region,bank_size,lending_style,total_assets,total_equity,total_loans,current_deposits,liquidity_ratio,capital_adequacy_ratio,npl_ratio,loan_to_deposit_ratio,return_on_equity,return_on_assets,net_interest_margin,cost_to_income_ratio,actual_status_label,predicted_status_label,risk_probability,risk_category,prediction_correct
+BANK_001,"Rodriguez, Figueroa and Sanchez Rural Bank",Upper West,Small,Moderate,44.47,7.57,13.95,34.01,17.97,17.01,7.77,41.01,28.66,4.88,3.74,91.57,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_002,Doyle Ltd Rural Bank,Greater Accra,Small,Conservative,9.84,0.99,3.84,7.24,42.29,10.02,4.07,53.04,42.61,4.27,3.46,68.21,High-Risk,High-Risk,0.99,Critical Risk,1
+BANK_003,"Mcclain, Miller and Henderson Rural Bank",Greater Accra,Small,Moderate,49.08,7.51,23.0,37.06,26.91,15.3,9.88,62.07,27.73,4.24,2.7,47.62,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_004,Davis and Sons Rural Bank,Volta,Large,Conservative,340.98,29.62,153.85,242.91,34.92,8.69,3.39,63.34,67.12,5.83,8.67,46.6,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_005,"Guzman, Hoffman and Baldwin Rural Bank",Central,Medium,Conservative,298.31,45.35,143.12,251.19,31.71,15.2,3.67,56.98,38.67,5.88,4.27,65.27,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_006,"Gardner, Robinson and Lawrence Rural Bank",Central,Small,Conservative,54.27,9.95,33.81,38.52,36.39,18.34,0.8,87.77,9.15,1.68,5.41,41.09,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_007,Blake and Sons Rural Bank,Greater Accra,Small,Moderate,37.43,4.45,17.75,30.65,23.09,11.89,6.92,57.92,37.54,4.46,11.07,68.55,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_008,"Henderson, Ramirez and Lewis Rural Bank",Eastern,Medium,Conservative,214.71,43.46,78.46,172.46,37.99,20.24,0.29,45.49,28.57,5.78,2.31,51.47,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_009,Garcia-James Rural Bank,Western,Medium,Conservative,81.3,13.93,42.77,62.56,41.16,17.14,1.84,68.36,23.44,4.02,2.61,77.0,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_010,Abbott-Munoz Rural Bank,Volta,Large,Moderate,1322.15,116.9,925.25,1096.32,39.45,8.84,10.23,84.4,23.32,2.06,7.47,75.56,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_011,Blair PLC Rural Bank,Ashanti,Small,Moderate,67.37,5.81,30.84,50.89,21.29,8.63,15.25,60.6,59.12,5.1,10.42,71.08,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_012,Dudley Group Rural Bank,Greater Accra,Medium,Aggressive,131.68,25.86,87.47,98.22,9.8,19.64,26.59,89.05,16.22,3.19,2.55,34.86,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_013,Arnold Ltd Rural Bank,Northern,Small,Moderate,10.54,0.85,3.81,7.76,34.35,8.08,6.13,49.07,68.65,5.54,3.89,33.91,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_014,"Mcclure, Ward and Lee Rural Bank",Greater Accra,Medium,Aggressive,104.82,10.92,62.37,75.42,17.0,10.42,26.98,82.7,40.89,4.26,5.41,33.41,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_015,Williams and Sons Rural Bank,Upper East,Large,Moderate,737.62,214.1,360.65,590.05,31.34,29.03,7.98,61.12,17.62,5.11,11.77,35.7,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_016,Galloway-Wyatt Rural Bank,Eastern,Small,Moderate,33.22,4.81,10.77,26.01,27.79,14.49,13.39,41.42,10.63,1.54,11.18,83.45,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_017,James Group Rural Bank,Northern,Medium,Moderate,139.31,24.14,65.61,113.5,26.05,17.33,14.77,57.81,28.14,4.87,11.03,82.81,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_018,"Flowers, Martin and Kelly Rural Bank",Ashanti,Small,Moderate,45.69,12.32,34.33,37.16,19.77,26.95,4.74,92.39,11.99,3.23,10.3,56.73,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_019,"Adams, Zuniga and Wong Rural Bank",Greater Accra,Small,Conservative,19.98,2.46,6.26,14.51,39.7,12.3,8.37,43.15,12.38,1.52,3.21,41.95,Healthy,Healthy,0.01,Minimal Risk,1
+BANK_020,"Reid, Ferguson and Sanchez Rural Bank",Greater Accra,Medium,Conservative,139.29,19.95,84.83,106.77,24.28,14.33,2.15,79.45,30.56,4.38,10.64,57.75,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_021,Gray-Mayo Rural Bank,Northern,Small,Moderate,15.29,1.74,9.73,12.98,28.42,11.39,9.18,74.96,27.96,3.18,3.37,83.05,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_022,"Watts, Robinson and Nguyen Rural Bank",Central,Large,Aggressive,472.59,98.39,221.0,331.85,5.11,20.82,16.07,66.6,25.89,5.39,7.74,84.13,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_023,Perez Inc Rural Bank,Ashanti,Medium,Conservative,44.13,12.36,14.55,33.99,43.13,28.01,4.0,42.79,14.83,4.16,9.15,49.92,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_024,Morales-Jones Rural Bank,Central,Medium,Moderate,273.52,22.03,170.67,213.13,23.01,8.06,3.2,80.08,65.85,5.3,8.03,37.49,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_025,"Walter, Edwards and Rios Rural Bank",Western,Large,Conservative,301.95,43.83,98.09,217.06,28.93,14.52,0.93,45.19,10.99,1.6,8.72,82.37,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_026,Wilkerson-Day Rural Bank,Northern,Medium,Conservative,115.08,34.98,84.23,90.2,30.37,30.4,7.4,93.38,14.25,4.33,4.41,78.77,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_027,Baker and Sons Rural Bank,Eastern,Medium,Moderate,54.55,7.97,41.9,44.12,25.72,14.61,13.52,94.99,39.6,5.79,3.76,89.49,Healthy,Healthy,0.01,Minimal Risk,1
+BANK_028,"Hoffman, Baker and Richards Rural Bank",Ashanti,Medium,Aggressive,87.61,26.13,65.0,72.5,12.37,29.82,18.13,89.66,13.89,4.14,10.5,40.89,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_029,"Ross, Robinson and Bright Rural Bank",Eastern,Small,Aggressive,50.11,11.39,23.21,37.52,18.31,22.72,26.62,61.88,7.86,1.79,3.45,89.44,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_030,"Snyder, Campos and Callahan Rural Bank",Eastern,Medium,Conservative,210.28,28.68,139.37,172.83,41.73,13.64,5.87,80.64,24.6,3.36,7.04,63.36,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_031,Burton Ltd Rural Bank,Ashanti,Small,Conservative,26.94,4.24,19.22,22.28,28.94,15.73,7.54,86.23,15.65,2.46,10.88,60.74,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_032,Carlson-Cruz Rural Bank,Ashanti,Medium,Conservative,264.04,31.73,92.05,209.82,26.47,12.02,2.99,43.87,43.92,5.28,11.3,58.4,Healthy,Healthy,0.02,Minimal Risk,1
+BANK_033,"Ferrell, Rice and Maddox Rural Bank",Upper East,Small,Moderate,8.75,1.66,5.19,6.41,21.17,18.96,14.6,80.98,27.35,5.19,9.77,82.77,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_034,Frazier Inc Rural Bank,Ashanti,Large,Conservative,1088.44,105.83,589.69,768.53,33.62,9.72,3.6,76.73,20.81,2.02,4.47,36.72,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_035,"Dyer, Potter and Mack Rural Bank",Greater Accra,Medium,Moderate,152.69,28.81,100.93,109.2,22.17,18.87,10.9,92.43,5.31,1.0,2.56,89.01,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_036,Rodriguez-Graham Rural Bank,Eastern,Small,Moderate,12.41,2.0,4.75,9.62,16.39,16.14,7.34,49.37,37.16,6.0,11.87,55.65,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_037,Smith-Bowen Rural Bank,Ashanti,Medium,Conservative,157.86,30.97,52.31,120.66,33.89,19.62,2.37,43.35,26.77,5.25,4.98,62.68,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_038,"Baker, Mason and White Rural Bank",Eastern,Small,Moderate,17.46,2.84,9.77,14.24,17.81,16.24,16.46,68.58,16.7,2.71,11.31,58.13,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_039,Harrell LLC Rural Bank,Ashanti,Small,Moderate,14.73,1.32,6.74,10.9,19.87,8.97,12.51,61.85,44.24,3.97,6.93,91.59,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_040,"Romero, Gonzalez and Brooks Rural Bank",Ashanti,Small,Conservative,64.51,11.09,31.15,52.21,25.79,17.19,1.47,59.66,25.39,4.37,8.03,34.5,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_041,Ryan PLC Rural Bank,Western,Large,Conservative,212.96,36.46,103.75,163.69,27.19,17.12,0.88,63.39,25.82,4.42,8.42,84.69,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_042,George Group Rural Bank,Central,Medium,Moderate,288.01,40.1,138.6,215.36,34.98,13.92,13.99,64.36,34.89,4.86,9.7,,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_043,Rodriguez LLC Rural Bank,Central,Small,Moderate,28.52,4.46,13.89,22.18,27.16,15.63,10.99,62.64,33.96,5.31,6.62,44.79,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_044,Allen-Allen Rural Bank,Ashanti,Medium,Moderate,172.89,31.5,126.45,135.41,35.19,18.22,10.2,93.38,6.77,1.23,4.43,33.23,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_045,"Arroyo, Miller and Tucker Rural Bank",Volta,Small,Moderate,7.85,2.14,2.55,6.29,31.06,27.28,5.43,40.54,19.54,5.33,6.82,68.59,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_046,Spence PLC Rural Bank,Greater Accra,Small,Conservative,15.6,3.56,6.34,12.49,29.74,22.8,8.06,50.79,24.73,5.64,7.95,34.15,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_047,Anderson Group Rural Bank,Ashanti,Small,Moderate,26.48,4.24,18.0,20.61,30.05,16.0,11.97,87.34,7.58,1.21,8.66,75.9,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_048,"Martin, Rose and Obrien Rural Bank",Greater Accra,Small,Aggressive,48.57,8.31,27.65,36.87,10.39,17.12,9.99,75.01,6.13,1.05,6.61,65.35,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_049,Hickman Ltd Rural Bank,Upper West,Small,Conservative,17.9,3.98,11.46,12.8,28.6,22.24,3.54,89.54,16.74,3.72,9.05,79.27,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_050,"Harris, Collins and Carney Rural Bank",Upper West,Small,Aggressive,19.25,3.17,9.1,14.92,6.38,16.48,18.57,60.97,30.01,4.95,5.81,87.97,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_051,"Brooks, Lam and Hayes Rural Bank",Greater Accra,Small,Aggressive,50.45,15.05,25.28,38.9,12.53,29.83,26.14,64.99,17.58,5.25,4.75,,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_052,Walker LLC Rural Bank,Ashanti,Medium,Conservative,201.55,61.56,67.68,154.4,29.32,30.54,4.99,43.83,8.57,2.62,9.41,52.44,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_053,Chapman and Sons Rural Bank,Upper East,Medium,Conservative,75.11,6.4,35.8,57.77,25.11,8.52,2.41,61.97,50.09,4.27,2.49,38.36,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_054,"Robinson, Jones and Welch Rural Bank",Northern,Small,Aggressive,23.53,5.45,12.72,17.89,22.6,23.18,28.33,71.09,4.81,1.11,10.89,70.09,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_055,Jones Inc Rural Bank,Upper East,Medium,Aggressive,117.99,22.13,64.2,91.73,27.54,18.76,18.15,69.99,26.51,4.97,10.29,77.24,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_056,Jones-Young Rural Bank,Upper East,Small,Moderate,30.75,5.07,13.47,23.57,30.1,16.49,9.3,57.15,35.41,5.84,2.5,72.09,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_057,"Washington, Ryan and Cummings Rural Bank",Upper West,Small,Aggressive,51.88,14.52,33.07,36.77,7.88,28.0,25.65,89.94,15.97,4.47,9.9,55.19,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_058,"Johnston, Sanchez and Kennedy Rural Bank",Eastern,Small,Moderate,22.15,4.39,11.01,18.4,21.09,19.81,4.04,59.83,14.39,2.85,6.05,90.97,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_059,Lee-Davis Rural Bank,Greater Accra,Large,Conservative,766.16,128.52,263.19,609.83,33.53,16.77,4.2,43.16,27.66,4.64,10.85,46.05,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_060,Gomez-Jenkins Rural Bank,Northern,Small,Moderate,50.67,14.01,23.82,41.68,15.7,27.65,8.66,57.16,10.51,2.91,8.38,43.77,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_061,"Brown, Valdez and Lucas Rural Bank",Ashanti,Medium,Moderate,255.26,20.76,121.48,181.65,16.11,8.13,12.35,66.88,64.85,5.27,3.59,59.2,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_062,Powell LLC Rural Bank,Ashanti,Medium,Moderate,93.69,27.07,52.53,68.05,22.58,28.89,11.16,77.2,12.57,3.63,11.55,48.78,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_063,Wright and Sons Rural Bank,Upper East,Small,Moderate,11.96,3.43,4.09,9.75,19.13,28.65,5.82,41.97,15.48,4.43,2.78,39.06,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_064,"West, Henderson and Ramirez Rural Bank",Central,Small,Moderate,6.74,1.59,2.38,5.12,19.05,23.68,4.45,46.43,23.8,5.64,5.06,73.92,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_065,Baxter Inc Rural Bank,Northern,Small,Conservative,42.26,11.46,21.35,30.05,23.8,27.11,1.08,71.05,11.01,2.98,7.86,55.65,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_066,Morton-Chase Rural Bank,Greater Accra,Medium,Aggressive,55.3,8.21,39.78,42.03,9.94,14.85,9.79,94.64,10.34,1.53,6.75,58.99,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_067,Williams PLC Rural Bank,Ashanti,Large,Conservative,725.73,122.97,479.36,510.19,22.14,16.94,1.38,93.96,24.83,4.21,3.91,,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_068,Novak and Sons Rural Bank,Eastern,Small,Moderate,22.78,3.48,12.19,18.22,14.3,15.27,5.6,66.89,14.56,2.22,3.69,79.83,High-Risk,High-Risk,0.87,Critical Risk,1
+BANK_069,Russell Group Rural Bank,Ashanti,Small,Conservative,28.67,6.5,11.77,24.31,41.4,22.67,3.85,48.42,12.11,2.74,10.84,75.42,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_070,Hancock Inc Rural Bank,Greater Accra,Small,Moderate,22.1,2.06,9.0,16.5,14.42,9.32,16.41,54.56,11.09,1.03,6.03,49.05,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_071,Gray Group Rural Bank,Eastern,Medium,Conservative,107.51,14.22,38.08,81.42,34.57,13.22,2.7,46.77,45.19,5.98,8.77,80.37,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_072,House-Glover Rural Bank,Greater Accra,Large,Moderate,768.82,104.19,303.69,649.53,17.7,13.55,12.14,46.76,32.38,4.39,2.1,49.67,Healthy,Healthy,0.04,Minimal Risk,1
+BANK_073,Henderson-Bernard Rural Bank,Volta,Small,Conservative,45.68,5.29,24.22,33.74,37.63,11.57,2.7,71.8,37.34,4.32,4.55,46.64,High-Risk,High-Risk,0.99,Critical Risk,1
+BANK_074,"Stanley, Tucker and Lee Rural Bank",Ashanti,Small,Aggressive,39.72,11.23,14.79,32.5,24.86,28.28,13.23,45.49,5.52,1.56,9.73,89.01,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_075,Novak PLC Rural Bank,Central,Small,Conservative,20.62,4.31,14.47,16.86,44.48,20.88,6.37,85.8,13.72,2.86,3.85,43.44,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_076,"Daniels, Adkins and Brown Rural Bank",Volta,Medium,Moderate,120.4,26.04,47.0,91.51,27.71,21.63,8.48,51.36,24.75,5.35,4.33,36.28,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_077,"Woods, Calhoun and Schmidt Rural Bank",Upper East,Medium,Moderate,79.25,17.56,46.52,66.61,30.2,22.15,11.62,69.85,7.42,1.64,3.35,54.55,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_078,Yu Inc Rural Bank,Eastern,Small,Conservative,10.1,1.57,6.45,7.3,35.82,15.57,1.82,88.3,27.43,4.27,10.77,68.35,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_079,Jones Inc Rural Bank,Bono,Small,Aggressive,25.61,3.36,10.56,18.26,15.74,13.14,26.61,57.83,27.94,3.67,11.24,71.17,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_080,"Hensley, Powell and David Rural Bank",Greater Accra,Small,Moderate,56.88,5.58,20.29,40.09,16.8,9.81,17.69,50.63,50.77,4.98,2.79,71.6,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_081,"Sanchez, Wheeler and Harvey Rural Bank",Eastern,Small,Moderate,16.56,3.36,7.81,12.96,22.34,20.27,13.79,60.27,28.93,5.86,4.03,78.8,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_082,Sandoval-Cunningham Rural Bank,Western,Large,Aggressive,314.31,27.42,177.7,253.37,6.59,8.72,15.85,70.13,19.18,1.67,3.91,77.49,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_083,Donovan-Harris Rural Bank,Central,Medium,Conservative,170.2,50.65,115.47,132.48,34.55,29.76,6.09,87.16,15.64,4.66,2.31,47.38,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_084,"Edwards, Baker and Anderson Rural Bank",Eastern,Large,Moderate,290.39,46.82,100.56,243.29,29.21,16.12,14.49,41.33,13.56,2.19,4.57,62.5,Healthy,Healthy,0.01,Minimal Risk,1
+BANK_085,"Evans, Stewart and Walton Rural Bank",Western,Small,Moderate,22.52,2.86,11.09,17.82,27.75,12.69,16.18,62.2,25.58,3.25,7.24,77.56,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_086,Smith PLC Rural Bank,Greater Accra,Small,Moderate,10.23,2.94,5.15,7.2,28.19,28.77,3.97,71.5,7.23,2.08,8.49,59.95,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_087,"Ferrell, Jones and Lewis Rural Bank",Greater Accra,Medium,Conservative,182.08,25.43,132.07,140.46,41.42,13.97,1.29,94.02,17.65,2.46,6.81,,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_088,Anderson-Bailey Rural Bank,Greater Accra,Small,Conservative,15.14,2.82,10.09,11.02,34.42,18.62,8.29,91.51,26.36,4.91,11.43,33.17,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_089,Suarez LLC Rural Bank,Upper West,Small,Moderate,22.05,4.19,10.37,18.75,33.57,19.01,12.2,55.3,11.64,2.21,10.91,72.35,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_090,Moore-Bass Rural Bank,Western,Medium,Conservative,159.54,42.01,98.87,125.89,22.13,26.34,1.65,78.53,10.31,2.71,7.32,44.96,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_091,"Turner, Riggs and Roman Rural Bank",Greater Accra,Small,Moderate,10.49,2.85,6.73,7.79,23.75,27.17,9.38,86.37,5.45,1.48,5.82,36.53,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_092,"Smith, Montoya and Evans Rural Bank",Ashanti,Small,Aggressive,50.16,12.67,34.53,39.86,12.71,25.27,10.54,86.62,23.36,5.9,8.27,33.55,High-Risk,High-Risk,0.98,Critical Risk,1
+BANK_093,"Garcia, Humphrey and Baker Rural Bank",Greater Accra,Medium,Moderate,107.28,26.79,74.54,83.93,20.27,24.97,8.74,88.81,15.98,3.99,5.83,41.76,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_094,Newton and Sons Rural Bank,Western,Small,Moderate,59.25,12.37,40.8,43.84,25.21,20.87,7.33,93.07,14.6,3.05,10.06,88.17,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_095,Campbell-Clark Rural Bank,Upper East,Large,Conservative,549.04,95.95,344.09,411.69,20.28,17.48,2.79,83.58,7.44,1.3,2.39,87.66,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_096,Harris-Walters Rural Bank,Eastern,Medium,Aggressive,176.98,19.39,102.53,129.73,16.26,10.95,28.66,79.04,16.31,1.79,2.93,70.57,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_097,Wagner-King Rural Bank,Central,Medium,Aggressive,174.05,49.11,71.83,138.39,24.3,28.21,19.8,51.91,7.66,2.16,7.39,57.39,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_098,Davis Group Rural Bank,Eastern,Small,Aggressive,36.74,9.57,26.61,29.96,15.24,26.04,24.08,88.84,15.16,3.95,6.39,59.55,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_099,Williams-Cook Rural Bank,Eastern,Medium,Conservative,156.9,26.74,81.21,110.31,23.55,17.05,4.41,73.62,19.2,3.27,11.54,78.74,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_100,Walsh LLC Rural Bank,Central,Medium,Aggressive,131.02,35.48,84.54,105.02,11.49,27.08,17.72,80.49,11.59,3.14,8.66,48.36,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_101,Figueroa PLC Rural Bank,Greater Accra,Large,Conservative,888.0,183.43,387.19,625.35,30.58,20.66,8.38,61.92,10.98,2.27,2.38,72.28,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_102,"Patterson, Smith and Jones Rural Bank",Greater Accra,Small,Moderate,49.37,4.22,16.4,35.88,25.54,8.56,7.03,45.71,39.41,3.37,4.38,82.09,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_103,"Mckee, Gardner and Davenport Rural Bank",Western,Medium,Moderate,167.9,25.06,60.78,138.39,20.34,14.93,13.01,43.92,8.38,1.25,3.86,38.85,Healthy,Healthy,0.01,Minimal Risk,1
+BANK_104,"Tran, Jordan and Williams Rural Bank",Western,Small,Moderate,27.69,6.11,13.28,19.93,27.53,22.06,2.9,66.64,17.51,3.86,9.43,92.01,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_105,Nolan-Flynn Rural Bank,Upper East,Medium,Moderate,166.95,48.85,107.05,135.19,33.73,29.26,5.15,79.18,9.88,2.89,5.94,49.49,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_106,Nolan and Sons Rural Bank,Eastern,Large,Moderate,958.33,244.03,351.65,810.58,16.2,25.46,13.67,43.38,21.79,5.55,6.71,76.25,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_107,"Wright, Garcia and Deleon Rural Bank",Bono,Medium,Moderate,65.09,15.2,26.63,45.8,21.99,23.36,17.95,58.14,21.45,5.01,6.63,75.42,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_108,Dickson-Brady Rural Bank,Eastern,Small,Aggressive,9.63,1.51,3.77,8.08,8.33,15.64,20.99,46.6,10.0,1.56,2.48,77.46,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_109,Hancock and Sons Rural Bank,Central,Small,Moderate,81.36,7.14,38.22,66.19,25.11,8.78,13.07,57.73,30.36,2.66,3.96,47.45,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_110,Johnson-Doyle Rural Bank,Upper East,Small,Moderate,26.18,6.96,13.05,18.86,34.34,26.6,5.05,69.22,15.1,4.02,3.9,92.2,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_111,Patton-Jenkins Rural Bank,Ashanti,Small,Conservative,31.36,6.32,13.53,25.88,41.74,20.16,6.4,52.29,11.66,2.35,11.0,39.39,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_112,"Shields, Cochran and Adams Rural Bank",Upper East,Small,Conservative,32.86,6.76,12.72,23.38,28.62,20.57,5.04,54.38,8.13,1.67,11.09,59.75,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_113,"Rodriguez, Brennan and Garrison Rural Bank",Central,Large,Moderate,1040.34,297.5,458.1,790.15,19.21,28.6,7.64,57.98,8.05,2.3,6.53,84.31,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_114,Gonzalez Group Rural Bank,Greater Accra,Small,Moderate,9.17,2.31,6.77,7.2,24.81,25.23,16.39,94.11,10.68,2.69,3.73,31.32,High-Risk,High-Risk,0.99,Critical Risk,1
+BANK_115,Torres-Pope Rural Bank,Northern,Medium,Moderate,158.88,30.83,79.29,122.7,23.98,19.4,11.08,64.62,16.94,3.29,9.95,48.42,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_116,Walker Ltd Rural Bank,Upper West,Small,Aggressive,15.23,4.43,9.27,11.57,4.63,29.07,20.08,80.17,16.99,4.94,6.26,58.14,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_117,Ross LLC Rural Bank,Western,Medium,Aggressive,100.6,29.19,58.11,75.17,25.39,29.02,12.53,77.3,5.84,1.69,11.65,66.55,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_118,Rasmussen LLC Rural Bank,Bono,Medium,Moderate,203.81,22.93,92.24,148.5,20.42,11.25,7.84,62.12,21.45,2.41,9.07,80.74,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_119,May-Ross Rural Bank,Volta,Large,Moderate,540.3,162.87,275.95,380.29,20.93,30.14,7.61,72.56,17.28,5.21,5.35,32.16,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_120,"Rivera, Johnson and Wiley Rural Bank",Volta,Small,Moderate,25.2,3.75,13.06,20.3,31.89,14.88,13.02,64.33,28.01,4.17,3.63,66.12,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_121,White-Estes Rural Bank,Ashanti,Medium,Moderate,175.04,44.23,99.94,144.2,27.04,25.27,6.7,69.31,14.14,3.57,7.89,33.62,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_122,Johnson-Carlson Rural Bank,Volta,Small,Aggressive,15.07,2.94,8.52,11.66,25.52,19.52,22.55,73.05,16.1,3.14,8.33,,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_123,Chandler-Edwards Rural Bank,Ashanti,Medium,Moderate,72.14,11.04,46.17,60.33,29.07,15.3,5.8,76.53,27.58,4.22,3.36,45.86,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_124,"Joyce, Wilson and Lam Rural Bank",Eastern,Medium,Moderate,125.42,30.95,90.3,102.68,28.24,24.68,16.32,87.94,20.41,5.04,5.1,75.94,High-Risk,High-Risk,0.99,Critical Risk,1
+BANK_125,Scott Ltd Rural Bank,Western,Small,Conservative,47.84,5.21,20.18,34.68,26.83,10.89,2.46,58.19,13.86,1.51,11.15,77.27,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_126,Smith-Frost Rural Bank,Greater Accra,Small,Moderate,41.34,4.48,27.74,31.21,19.71,10.85,13.87,88.89,52.64,5.71,7.33,58.93,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_127,"Mcdaniel, Bentley and Mclaughlin Rural Bank",Ashanti,Medium,Moderate,273.01,26.28,216.11,227.93,23.3,9.63,6.33,94.81,37.44,3.6,5.15,89.8,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_128,Diaz Inc Rural Bank,Eastern,Small,Moderate,8.5,1.7,2.71,6.2,20.63,19.96,9.62,43.73,10.79,2.15,7.84,84.17,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_129,"Mccall, Hanson and Alvarado Rural Bank",Eastern,Large,Moderate,323.71,49.84,188.56,244.4,29.94,15.4,12.07,77.15,24.38,3.75,6.31,43.52,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_130,Cortez LLC Rural Bank,Bono,Medium,Conservative,192.33,52.55,70.39,135.36,48.38,27.32,4.2,52.01,20.32,5.55,11.86,86.42,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_131,"Parker, Ortiz and Powell Rural Bank",Greater Accra,Medium,Conservative,159.47,35.18,94.35,119.27,37.88,22.06,0.41,79.11,24.42,5.39,7.97,40.58,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_132,Spencer-Lee Rural Bank,Western,Medium,Moderate,197.12,34.87,80.15,152.97,23.51,17.69,6.19,52.39,32.47,5.74,11.8,94.38,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_133,"Bentley, Byrd and Orr Rural Bank",Northern,Small,Aggressive,16.51,4.38,6.34,11.59,15.95,26.51,23.6,54.68,5.87,1.56,4.77,49.56,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_134,"Carroll, Sullivan and Bass Rural Bank",Upper East,Large,Moderate,480.65,52.3,239.23,373.74,26.12,10.88,17.96,64.01,35.61,3.87,7.78,66.66,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_135,Mitchell-Jordan Rural Bank,Greater Accra,Small,Moderate,39.46,6.8,17.02,30.36,19.44,17.24,4.47,56.05,34.23,5.9,9.42,83.81,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_136,"Lawson, Morris and Ramos Rural Bank",Ashanti,Small,Conservative,8.96,1.49,5.5,6.74,33.82,16.67,7.98,81.55,16.36,2.73,9.99,85.04,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_137,"Lewis, Kennedy and Santana Rural Bank",Ashanti,Small,Moderate,9.75,1.83,5.85,8.22,19.11,18.79,5.26,71.21,7.23,1.36,9.41,75.54,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_138,"Jackson, Miller and Robertson Rural Bank",Greater Accra,Medium,Aggressive,99.32,28.8,47.44,83.04,12.7,28.99,15.55,57.13,8.12,2.35,4.83,78.22,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_139,"Harvey, Davis and Crane Rural Bank",Northern,Large,Moderate,270.65,39.35,130.19,209.83,25.38,14.54,5.88,62.04,8.2,1.19,4.58,53.06,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_140,Chambers and Sons Rural Bank,Upper East,Small,Moderate,34.66,9.59,13.56,28.2,19.65,27.65,5.84,48.1,15.84,4.38,6.96,81.15,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_141,Hernandez Inc Rural Bank,Ashanti,Small,Aggressive,38.76,9.71,17.33,29.35,25.3,25.05,23.53,59.04,19.61,4.91,10.47,38.99,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_142,Riggs PLC Rural Bank,Eastern,Small,Moderate,34.66,8.96,13.36,24.59,35.46,25.85,8.22,54.35,22.91,5.92,11.63,55.15,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_143,Gibson Ltd Rural Bank,Eastern,Medium,Conservative,122.98,20.43,83.46,99.47,31.12,16.62,0.43,83.9,27.97,4.65,8.81,80.06,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_144,"Lee, Horton and Snyder Rural Bank",Ashanti,Medium,Conservative,162.57,26.96,58.9,135.36,37.68,16.58,7.31,43.52,34.78,5.77,11.43,32.79,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_145,Hernandez Ltd Rural Bank,Eastern,Medium,Moderate,127.5,32.44,67.04,91.62,28.89,25.45,16.39,73.17,22.53,5.73,10.49,30.41,High-Risk,High-Risk,0.99,Critical Risk,1
+BANK_146,Stafford Inc Rural Bank,Northern,Medium,Aggressive,106.29,15.65,55.8,81.59,12.09,14.72,29.26,68.4,25.65,3.78,5.47,73.43,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_147,Robinson-Brock Rural Bank,Ashanti,Small,Conservative,26.91,7.4,17.78,22.28,28.98,27.48,2.32,79.79,6.29,1.73,7.1,63.59,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_148,"Holmes, Williams and Wright Rural Bank",Central,Large,Conservative,912.99,85.08,475.19,692.62,20.11,9.32,4.12,68.61,57.83,5.39,6.06,54.15,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_149,Bryant Group Rural Bank,Greater Accra,Medium,Conservative,40.84,4.92,28.27,31.82,22.51,12.05,4.28,88.82,29.19,3.52,5.56,67.99,Healthy,Healthy,0.05,Minimal Risk,1
+BANK_150,"Schmidt, Hansen and Stewart Rural Bank",Eastern,Medium,Moderate,94.2,12.99,47.79,79.49,28.12,13.79,14.69,60.12,17.65,2.43,8.33,49.48,Healthy,Healthy,0.01,Minimal Risk,1
+BANK_151,Salazar-Ball Rural Bank,Eastern,Large,Moderate,504.51,110.43,332.25,426.45,20.67,21.89,13.05,77.91,7.2,1.58,8.17,,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_152,"Simmons, Meadows and Griffin Rural Bank",Western,Medium,Moderate,124.4,18.77,76.64,102.09,15.73,15.09,14.58,75.07,31.82,4.8,3.42,30.78,Healthy,Healthy,0.07,Minimal Risk,1
+BANK_153,Manning Group Rural Bank,Northern,Medium,Conservative,155.3,39.28,89.07,114.8,47.83,25.29,8.02,77.58,11.95,3.02,2.27,81.51,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_154,Green-Wright Rural Bank,Bono,Medium,Moderate,149.74,23.87,50.95,115.01,31.4,15.94,9.23,44.3,22.68,3.62,10.74,57.42,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_155,"Ramirez, Strickland and Washington Rural Bank",Western,Small,Aggressive,30.18,4.89,18.68,24.8,6.7,16.21,20.86,75.35,24.57,3.98,2.18,65.78,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_156,Hill Inc Rural Bank,Western,Medium,Aggressive,204.59,40.8,131.77,157.23,15.54,19.94,12.96,83.81,26.93,5.37,10.55,55.95,Healthy,Healthy,0.01,Minimal Risk,1
+BANK_157,"Mitchell, Nelson and Flores Rural Bank",Central,Medium,Moderate,155.25,18.58,89.84,112.1,23.19,11.97,11.14,80.14,46.54,5.57,2.56,51.64,High-Risk,High-Risk,0.94,Critical Risk,1
+BANK_158,"Miller, Hernandez and Reyes Rural Bank",Western,Large,Conservative,924.37,98.26,443.43,649.66,34.2,10.63,7.61,68.26,28.5,3.03,2.13,38.82,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_159,Mccarthy Inc Rural Bank,Central,Small,Moderate,60.23,8.61,43.77,48.74,17.68,14.3,8.57,89.8,31.09,4.45,2.66,51.74,Healthy,Healthy,0.01,Minimal Risk,1
+BANK_160,Russell-Daniels Rural Bank,Ashanti,Medium,Moderate,106.89,16.26,62.24,77.93,23.53,15.21,2.98,79.87,24.2,3.68,6.69,94.79,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_161,Brown-Wall Rural Bank,Greater Accra,Small,Conservative,7.11,0.64,2.56,5.17,26.8,9.05,8.34,49.6,12.23,1.11,8.55,66.37,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_162,Stein-Silva Rural Bank,Central,Small,Moderate,42.72,8.04,30.74,32.39,19.95,18.81,7.54,94.92,7.38,1.39,9.43,55.25,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_163,"Smith, Gilmore and Johnston Rural Bank",Bono,Medium,Moderate,140.83,35.73,64.09,116.41,28.2,25.37,6.47,55.05,15.88,4.03,7.17,57.39,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_164,Smith-Bell Rural Bank,Greater Accra,Small,Conservative,17.32,3.94,9.85,13.02,39.19,22.78,4.23,75.65,7.35,1.67,7.54,87.09,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_165,Castaneda-Ashley Rural Bank,Greater Accra,Small,Moderate,21.17,4.29,14.38,17.28,29.69,20.27,15.59,83.22,25.39,5.15,7.89,64.22,High-Risk,High-Risk,0.99,Critical Risk,1
+BANK_166,Medina-Navarro Rural Bank,Eastern,Small,Moderate,21.21,5.69,8.32,14.86,21.77,26.84,4.94,56.0,21.89,5.88,6.11,,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_167,"Hurst, Freeman and Nelson Rural Bank",Western,Small,Moderate,15.85,2.49,6.88,12.06,21.32,15.72,10.03,57.08,20.63,3.24,5.11,36.25,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_168,Johnson-Rogers Rural Bank,Upper West,Large,Conservative,798.31,86.85,478.68,674.11,30.54,10.88,1.98,71.01,19.25,2.09,8.27,74.79,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_169,"Yates, Ramsey and Pittman Rural Bank",Northern,Medium,Conservative,129.14,17.12,61.73,108.53,36.46,13.26,6.31,56.88,28.31,3.75,11.3,64.37,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_170,Hooper PLC Rural Bank,Upper West,Medium,Conservative,145.57,17.59,93.42,104.18,34.45,12.08,2.01,89.67,45.77,5.53,11.11,67.86,Healthy,Healthy,0.01,Minimal Risk,1
+BANK_171,Meadows PLC Rural Bank,Northern,Medium,Conservative,172.3,34.96,98.97,144.42,26.01,20.29,4.88,68.53,20.2,4.1,5.21,63.02,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_172,"Alvarado, Miller and Patterson Rural Bank",Central,Small,Aggressive,42.68,9.03,15.43,32.65,16.75,21.15,12.64,47.26,9.74,2.06,7.58,66.9,Healthy,Healthy,0.01,Minimal Risk,1
+BANK_173,White-Green Rural Bank,Greater Accra,Medium,Moderate,146.97,36.13,92.54,123.02,20.06,24.58,12.91,75.23,21.24,5.22,5.58,62.12,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_174,Lewis-Murphy Rural Bank,Greater Accra,Small,Moderate,69.73,13.64,35.46,49.7,24.74,19.57,7.52,71.35,6.79,1.33,2.09,,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_175,Ramirez-Bean Rural Bank,Volta,Medium,Conservative,165.59,43.26,82.35,127.72,37.16,26.13,0.6,64.47,6.12,1.6,5.34,48.54,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_176,King-Miller Rural Bank,Ashanti,Small,Moderate,38.85,5.04,13.82,27.43,22.56,12.97,8.38,50.37,15.88,2.06,2.63,58.87,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_177,Curry Inc Rural Bank,Western,Medium,Conservative,61.24,10.18,28.93,44.2,38.4,16.63,6.16,65.46,6.96,1.16,5.68,87.38,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_178,Walker-Jones Rural Bank,Eastern,Medium,Moderate,73.96,11.07,30.4,62.23,27.2,14.96,17.21,48.85,31.59,4.73,6.92,76.35,High-Risk,High-Risk,0.99,Critical Risk,1
+BANK_179,"Williams, Johnson and Wright Rural Bank",Ashanti,Small,Moderate,19.49,1.77,7.57,15.79,26.03,9.1,11.76,47.94,21.86,1.99,2.03,58.04,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_180,Howell and Sons Rural Bank,Western,Small,Moderate,29.42,5.18,13.88,23.55,36.87,17.62,7.57,58.96,20.08,3.54,4.2,72.15,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_181,Wells Inc Rural Bank,Greater Accra,Small,Conservative,44.75,11.41,32.72,35.73,35.98,25.5,2.85,91.58,5.99,1.53,3.06,92.11,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_182,"Gould, Marshall and Scott Rural Bank",Upper East,Medium,Conservative,70.76,10.38,34.7,54.01,44.57,14.66,7.88,64.24,13.88,2.03,4.12,36.16,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_183,Jackson-Lawson Rural Bank,Greater Accra,Large,Moderate,747.38,112.07,299.15,550.45,13.72,15.0,8.3,54.35,16.38,2.46,10.01,75.49,High-Risk,High-Risk,0.99,Critical Risk,1
+BANK_184,"Higgins, Strickland and Martin Rural Bank",Bono,Medium,Aggressive,162.2,16.86,100.55,114.82,6.43,10.39,16.02,87.57,15.99,1.66,7.81,87.34,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_185,Rodriguez-Johnson Rural Bank,Upper East,Large,Aggressive,432.88,86.47,298.62,348.04,20.63,19.97,24.56,85.8,23.37,4.67,9.73,79.57,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_186,Johnston-Odonnell Rural Bank,Northern,Medium,Aggressive,248.58,37.49,184.62,210.0,10.02,15.08,15.07,87.92,30.79,4.64,5.34,40.18,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_187,Sanders-Espinoza Rural Bank,Eastern,Medium,Conservative,79.55,15.52,37.52,66.31,40.12,19.51,1.75,56.59,6.23,1.22,6.27,65.68,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_188,Vargas Ltd Rural Bank,Bono,Small,Moderate,13.37,3.19,7.31,10.03,31.54,23.89,11.55,72.86,20.89,4.99,4.27,38.15,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_189,Garcia LLC Rural Bank,Ashanti,Medium,Conservative,67.5,16.28,30.52,50.72,41.32,24.12,1.68,60.18,9.75,2.35,7.22,93.13,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_190,"Burke, Martinez and Riggs Rural Bank",Eastern,Small,Conservative,62.11,9.21,37.08,46.92,32.38,14.83,7.79,79.03,23.03,3.41,10.94,,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_191,Reed Group Rural Bank,Eastern,Small,Moderate,15.4,2.4,9.15,10.87,22.37,15.55,6.71,84.18,7.43,1.16,2.76,81.15,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_192,"Wood, Hunter and Peterson Rural Bank",Greater Accra,Small,Aggressive,20.11,2.48,11.06,15.82,24.64,12.32,14.49,69.9,44.91,5.53,2.86,71.12,Healthy,Healthy,0.15,Minimal Risk,1
+BANK_193,Short-Garcia Rural Bank,Greater Accra,Medium,Conservative,81.25,11.21,52.74,59.84,41.61,13.8,5.95,88.13,41.33,5.7,6.47,88.27,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_194,Reid-Poole Rural Bank,Eastern,Medium,Moderate,116.87,29.15,38.21,94.26,27.28,24.94,5.44,40.54,19.97,4.98,11.0,47.88,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_195,"Hernandez, Thompson and Boyd Rural Bank",Greater Accra,Medium,Aggressive,105.75,31.62,45.19,77.44,23.28,29.9,28.45,58.36,7.67,2.29,3.33,87.86,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_196,"Nelson, Morton and Medina Rural Bank",Upper West,Medium,Aggressive,100.0,27.19,54.89,75.66,5.16,27.19,15.57,72.55,8.4,2.28,8.46,35.95,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_197,Marshall-Petersen Rural Bank,Greater Accra,Small,Moderate,20.63,3.75,8.5,17.15,33.2,18.19,15.22,49.58,8.27,1.51,8.93,58.32,High-Risk,High-Risk,0.99,Critical Risk,1
+BANK_198,"Adams, Christian and Rivas Rural Bank",Volta,Small,Aggressive,50.49,9.8,18.27,37.65,5.5,19.42,17.43,48.52,29.94,5.81,7.16,53.52,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_199,Ramirez Group Rural Bank,Greater Accra,Small,Conservative,43.31,10.9,21.86,35.88,41.55,25.16,0.93,60.91,5.41,1.36,11.31,31.68,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_200,Christensen PLC Rural Bank,Central,Small,Aggressive,85.33,24.62,45.35,68.13,9.43,28.85,16.53,66.57,8.86,2.56,10.31,54.37,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_201,"Barnett, Rogers and Snyder Rural Bank",Western,Large,Aggressive,392.69,45.55,231.9,282.27,11.44,11.6,9.96,82.16,25.15,2.92,8.15,49.15,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_202,White-Lewis Rural Bank,Upper East,Medium,Moderate,56.1,11.06,19.38,43.51,25.59,19.72,11.3,44.53,17.39,3.43,7.36,93.81,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_203,Peterson-Beard Rural Bank,Eastern,Medium,Conservative,167.39,28.5,112.31,142.19,29.14,17.03,2.02,78.99,32.99,5.62,8.9,70.57,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_204,"Beard, Peters and Black Rural Bank",Eastern,Small,Conservative,39.15,3.72,13.45,31.25,27.02,9.5,6.04,43.03,44.06,4.19,3.18,60.86,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_205,Miller Ltd Rural Bank,Greater Accra,Medium,Aggressive,139.86,13.21,73.78,114.4,25.36,9.45,15.55,64.49,14.46,1.37,9.38,69.34,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_206,Freeman-Chang Rural Bank,Central,Medium,Conservative,271.81,49.8,204.41,225.26,39.25,18.32,6.59,90.75,18.93,3.47,4.4,44.04,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_207,"Alvarez, Joseph and West Rural Bank",Eastern,Medium,Aggressive,45.21,12.47,18.49,36.98,23.52,27.58,24.45,50.0,19.62,5.41,3.78,57.58,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_208,Davis and Sons Rural Bank,Northern,Large,Moderate,477.38,102.19,203.99,358.57,17.55,21.41,9.42,56.89,18.98,4.06,6.99,91.99,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_209,Holt-Torres Rural Bank,Ashanti,Small,Moderate,9.9,1.24,3.97,7.17,22.32,12.5,6.14,55.38,34.93,4.37,4.15,51.33,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_210,"Wood, Tran and Cooper Rural Bank",Ashanti,Large,Aggressive,458.8,47.94,158.64,387.75,25.96,10.45,22.21,40.91,42.76,4.47,10.54,63.18,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_211,"Pierce, Bell and Chavez Rural Bank",Greater Accra,Medium,Moderate,194.87,51.34,97.32,154.37,27.59,26.34,13.69,63.04,11.54,3.04,5.76,36.98,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_212,King-Martinez Rural Bank,Ashanti,Small,Moderate,23.36,1.85,15.2,18.17,29.03,7.93,7.46,83.67,41.24,3.27,8.1,59.42,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_213,Stewart Ltd Rural Bank,Eastern,Small,Moderate,11.72,3.15,8.45,9.41,31.4,26.88,6.78,89.81,17.88,4.81,3.17,61.96,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_214,"Tapia, Vaughn and Lee Rural Bank",Volta,Medium,Aggressive,240.14,69.59,91.94,187.1,16.92,28.98,8.4,49.14,8.54,2.48,7.03,47.59,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_215,"Washington, Hardy and Bray Rural Bank",Western,Medium,Moderate,179.57,32.77,61.27,141.57,30.41,18.25,5.29,43.28,17.54,3.2,9.46,45.29,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_216,"Carlson, Hooper and Wall Rural Bank",Upper West,Medium,Conservative,125.49,19.97,35.51,88.45,22.59,15.91,4.54,40.15,7.55,1.2,9.5,65.88,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_217,Perez-White Rural Bank,Greater Accra,Medium,Aggressive,70.0,6.34,30.47,52.55,20.43,9.06,19.46,57.97,47.88,4.34,5.42,85.0,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_218,Erickson and Sons Rural Bank,Upper West,Small,Moderate,33.03,8.99,20.43,25.2,26.95,27.21,9.59,81.06,19.38,5.28,2.22,41.01,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_219,Williams-Brown Rural Bank,Greater Accra,Medium,Moderate,172.81,51.31,103.93,141.99,22.99,29.69,15.93,73.2,16.12,4.79,10.23,76.42,High-Risk,High-Risk,1.0,Critical Risk,1
+BANK_220,Terry-Martinez Rural Bank,Northern,Medium,Aggressive,153.73,19.05,67.87,127.65,20.63,12.39,11.82,53.16,32.46,4.02,7.36,51.86,Healthy,Healthy,0.01,Minimal Risk,1
+BANK_221,Garcia-Smith Rural Bank,Greater Accra,Large,Conservative,512.51,120.58,173.59,369.66,36.44,23.53,4.97,46.96,22.22,5.23,7.09,34.45,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_222,Harrison-Alexander Rural Bank,Volta,Small,Moderate,19.51,2.43,12.48,16.15,18.31,12.45,8.4,77.28,31.96,3.98,11.53,77.49,Healthy,Healthy,0.02,Minimal Risk,1
+BANK_223,Sheppard LLC Rural Bank,Eastern,Medium,Moderate,78.42,17.6,35.89,59.22,33.74,22.45,8.99,60.61,13.89,3.12,4.79,64.18,Healthy,Healthy,0.0,Minimal Risk,1
+BANK_224,Wilson-Jones Rural Bank,Ashanti,Medium,Moderate,187.29,49.52,61.44,139.61,17.03,26.44,10.4,44.01,20.0,5.29,3.14,32.69,Healthy,Healthy,0.0,Minimal Risk,1
