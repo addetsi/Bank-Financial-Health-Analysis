@@ -9,19 +9,19 @@ A machine learning project for predicting financial health status of rural banks
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project builds a classification system to predict bank financial health status, enabling early identification of banks requiring regulatory intervention. The model analyzes 25+ financial indicators including liquidity ratios, capital adequacy, asset quality, and profitability metrics to classify banks as **HEALTHY** or **HIGH_RISK**.
 
 **Context:** Originally developed during a Data Science internship at ARB Apex Bank Ltd (Ghana) analyzing 224+ rural banks. This portfolio version uses synthetic data to demonstrate the same analytical methodology while maintaining confidentiality.
 
 ### Success Criteria
-- ✅ **Primary:** Recall ≥ 80% (minimize false negatives - catch risky banks)
-- ✅ **Secondary:** Precision ≥ 70%, F1-Score ≥ 75%, ROC-AUC ≥ 85%
+-  **Primary:** Recall ≥ 80% (minimize false negatives - catch risky banks)
+-  **Secondary:** Precision ≥ 70%, F1-Score ≥ 75%, ROC-AUC ≥ 85%
 
 ---
 
-## 💼 Business Problem
+##  Business Problem
 
 Rural and community banks face unique challenges including limited capital bases, concentrated loan portfolios, and operational inefficiencies. Banking regulators need early warning systems to identify institutions requiring intervention before failure occurs.
 
@@ -34,7 +34,7 @@ Rural and community banks face unique challenges including limited capital bases
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 ### Specifications
 - **Banks:** 224 rural banking institutions
@@ -83,17 +83,17 @@ Banks classified as **HIGH_RISK** if meeting ANY criteria:
 
 ---
 
-## 🏆 Model Performance
+##  Model Performance
 
 ### Best Model: **XGBoost Classifier**
 
 | Metric | Score | Target | Status |
 |--------|-------|--------|--------|
-| **Recall** | **100.0%** | ≥80% | ✅ **EXCEEDED** |
-| **Precision** | **99.5%** | ≥70% | ✅ **EXCEEDED** |
-| **F1-Score** | **99.7%** | ≥75% | ✅ **EXCEEDED** |
-| **ROC-AUC** | **99.99%** | ≥85% | ✅ **EXCEEDED** |
-| **Accuracy** | **99.8%** | - | ✅ **EXCELLENT** |
+| **Recall** | **100.0%** | ≥80% |  **EXCEEDED** |
+| **Precision** | **99.5%** | ≥70% |  **EXCEEDED** |
+| **F1-Score** | **99.7%** | ≥75% | **EXCEEDED** |
+| **ROC-AUC** | **99.99%** | ≥85% |  **EXCEEDED** |
+| **Accuracy** | **99.8%** | - | **EXCELLENT** |
 
 ### Confusion Matrix (Test Set: 538 banks)
 
@@ -103,9 +103,9 @@ Banks classified as **HIGH_RISK** if meeting ANY criteria:
 | **Actual HIGH_RISK** | 0 (FN) | 184 (TP) |
 
 **Key Outcomes:**
-- ✅ **All 184 high-risk banks correctly identified** (0 missed)
-- ✅ Only 1 false alarm (1 healthy bank flagged as risky)
-- ✅ 100% of actual high-risk banks caught by the model
+-  **All 184 high-risk banks correctly identified** (0 missed)
+- Only 1 false alarm (1 healthy bank flagged as risky)
+- 100% of actual high-risk banks caught by the model
 
 ### Hyperparameters (Best Configuration)
 ```python
@@ -132,7 +132,7 @@ Banks classified as **HIGH_RISK** if meeting ANY criteria:
 
 ---
 
-## 🔑 Key Features
+##  Key Features
 
 ### Technical Highlights
 - **End-to-End ML Pipeline:** Data generation → EDA → Feature engineering → Model training → Evaluation
@@ -160,7 +160,7 @@ Created 7 interaction features to capture complex relationships:
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -192,7 +192,7 @@ imbalanced-learn==0.11.0
 shap==0.42.1
 jupyter==1.0.0
 ```
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Category | Technologies |
 |----------|-------------|
@@ -206,7 +206,7 @@ jupyter==1.0.0
 
 ---
 
-## 📈 Results & Insights
+##  Results & Insights
 
 ### Model Performance Highlights
 
@@ -237,65 +237,11 @@ Based on feature importance analysis, the most predictive features are:
 **Deployment Recommendation:**
 With 100% recall and 99.5% precision, this model is ready for production deployment with human oversight for final intervention decisions.
 
----
-
-## ⚠️ Limitations
-
-1. **Synthetic Data:** This project uses artificially generated data. Real-world banking data may have additional complexities, noise, and edge cases not captured in the synthetic dataset.
-
-2. **Temporal Assumptions:** The model assumes stable relationships between features and risk status over time. Economic shocks, regulatory changes, or market conditions may alter these relationships.
-
-3. **Regional Factors:** While region is included as a feature, local economic conditions, political factors, and infrastructure differences may require region-specific models.
-
-4. **Class Imbalance Handling:** SMOTE generates synthetic minority class samples which may not perfectly represent real high-risk bank characteristics.
-
-5. **External Factors:** The model does not account for macroeconomic indicators (GDP growth, inflation, interest rates) or external shocks (pandemics, political instability).
-
-6. **Model Interpretability:** While feature importance and SHAP values provide insights, XGBoost remains a "black box" compared to simpler models like logistic regression.
-
-7. **Sample Size:** 224 banks may be insufficient to capture the full diversity of banking institutions, especially rare failure modes.
 
 ---
-
-## Future Improvements
-
-### Model Enhancements
-- [ ] **Time Series Features:** Incorporate trend analysis (3-month moving averages, quarter-over-quarter growth rates)
-- [ ] **Ensemble Methods:** Combine XGBoost with Random Forest and Neural Networks for robust predictions
-- [ ] **Anomaly Detection:** Add unsupervised learning to identify unusual patterns not captured by historical labels
-- [ ] **Calibration:** Improve probability estimates for risk scoring and intervention priority ranking
-
-### Data Enhancements
-- [ ] **Macroeconomic Variables:** Add GDP growth, inflation rates, central bank policy rates
-- [ ] **Network Effects:** Model interbank lending and contagion risks
-- [ ] **Qualitative Factors:** Incorporate management quality scores, governance metrics
-- [ ] **Real-Time Data:** Integrate daily/weekly indicators for faster early warning
-
-### Deployment & Monitoring
-- [ ] **API Development:** Build REST API for real-time predictions
-- [ ] **Dashboard:** Create interactive visualization dashboard for supervisors
-- [ ] **Model Monitoring:** Implement drift detection and automated retraining pipelines
-- [ ] **A/B Testing:** Compare model recommendations against expert judgments
-
-### Regulatory Alignment
-- [ ] **Basel III Compliance:** Ensure model aligns with international banking standards
-- [ ] **Stress Testing:** Simulate economic downturns and test model robustness
-- [ ] **Explainability Reports:** Generate human-readable reports for each prediction
-- [ ] **Audit Trail:** Log all predictions and decisions for regulatory review
-
----
-
-## 👨‍💻 Author
-
-**Godwin Addetsi**  
-MSc Data Science, Leiden University
-
-**LinkedIn:** [linkedin.com/in/godwin-addetsi](https://linkedin.com/in/godwin-addetsi)  
-**Email:** godwinaddetsi12@gmail.com  
-
 ### About the Project
 
-This project was developed as part of a Data Science portfolio to demonstrate:
+This project was developed as part of a Data Science to demonstrate:
 - End-to-end machine learning project execution
 - Banking domain knowledge and regulatory understanding
 - Technical proficiency in classification, imbalanced learning, and model interpretation
@@ -305,7 +251,6 @@ This project was developed as part of a Data Science portfolio to demonstrate:
 
 ---
 
-**⭐ If you find this project useful, please consider giving it a star!**
 
 ---
 
